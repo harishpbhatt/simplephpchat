@@ -1,0 +1,12 @@
+[07-May-2014 15:17:06 America/New_York] PHP Warning:  include(connectfb/src/facebook.php): failed to open stream: No such file or directory in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[07-May-2014 15:17:06 America/New_York] PHP Warning:  include(connectfb/src/facebook.php): failed to open stream: No such file or directory in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[07-May-2014 15:17:06 America/New_York] PHP Warning:  include(): Failed opening 'connectfb/src/facebook.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[07-May-2014 15:17:06 America/New_York] PHP Fatal error:  Class 'Facebook' not found in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 6
+[21-May-2014 20:48:36 America/New_York] PHP Warning:  include(connectfb/src/facebook.php): failed to open stream: No such file or directory in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[21-May-2014 20:48:36 America/New_York] PHP Warning:  include(connectfb/src/facebook.php): failed to open stream: No such file or directory in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[21-May-2014 20:48:36 America/New_York] PHP Warning:  include(): Failed opening 'connectfb/src/facebook.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[21-May-2014 20:48:36 America/New_York] PHP Fatal error:  Class 'Facebook' not found in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 6
+[23-Jul-2014 23:31:07 America/New_York] PHP Warning:  include(connectfb/src/facebook.php): failed to open stream: No such file or directory in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[23-Jul-2014 23:31:07 America/New_York] PHP Warning:  include(connectfb/src/facebook.php): failed to open stream: No such file or directory in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[23-Jul-2014 23:31:07 America/New_York] PHP Warning:  include(): Failed opening 'connectfb/src/facebook.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 3
+[23-Jul-2014 23:31:07 America/New_York] PHP Fatal error:  Class 'Facebook' not found in /home/socialeventbunew/public_html/connectfb/fbconfig.php on line 6
